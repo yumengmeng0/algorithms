@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76a116db-deac-4215-a0fa-5133c305777f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algs4_my/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/Bag1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/FixedCapacityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/FixedCapacityStackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/NoCapacityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/com/my/ch01new/FixedCapacityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/com/my/ch01new/UnfixedCapacityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/excise/Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch01/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/SortCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/MaxPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/MaxPQTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Merge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/com/my/ch02/sort/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4_my/src/main/java/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/CopyOnWriteArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/concurrent/ConcurrentHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/concurrent/ThreadPoolExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StdAPI/src/StdDraw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter103/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter103/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter103/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter103/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter201/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter201/Shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter202/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter202/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk11_source_code/src/java/util/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdk11_source_code/src/java/util/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leet-code/src/easy/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leet-code/src/easy/Solution2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithms" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uD6MZ8zbHl7tQm184ObM9iRrfc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter105" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gitee\notes\algorithms\src\chapter105" />
+      <recent name="C:\gitee\notes\algorithms\src" />
+      <recent name="C:\gitee\notes\algorithms\src\list" />
+      <recent name="C:\gitee\notes\algorithms\src\chapter01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter204" />
+      <recent name="chapter203" />
+      <recent name="question202" />
+      <recent name="question201" />
+      <recent name="chapter201" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gitee\notes\algorithms\src\question105" />
+      <recent name="C:\gitee\notes\algorithms\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Shell">
+    <configuration name="HeapMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter204.HeapMaxPQ" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter204.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter203.Quick" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter203.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quick3way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter203.Quick3way" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter203.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter201.Shell" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter201.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter201.SortCompare" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter201.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shell" />
+        <item itemvalue="Application.SortCompare" />
+        <item itemvalue="Application.HeapMaxPQ" />
+        <item itemvalue="Application.Quick3way" />
+        <item itemvalue="Application.Quick" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a116db-deac-4215-a0fa-5133c305777f" name="Default Changelist" comment="" />
+      <created>1624187764245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624187764245</updated>
+      <workItem from="1624187767347" duration="2610000" />
+      <workItem from="1624232516230" duration="1586000" />
+      <workItem from="1624235186693" duration="4140000" />
+      <workItem from="1624243797049" duration="2119000" />
+      <workItem from="1624255582693" duration="3077000" />
+      <workItem from="1624258880163" duration="792000" />
+      <workItem from="1624259785355" duration="55000" />
+      <workItem from="1624259988236" duration="352000" />
+      <workItem from="1624260595301" duration="62000" />
+      <workItem from="1624260755733" duration="562000" />
+      <workItem from="1624261502540" duration="4768000" />
+      <workItem from="1624276653367" duration="7249000" />
+      <workItem from="1624319140422" duration="1989000" />
+      <workItem from="1624321160739" duration="11358000" />
+      <workItem from="1624361468652" duration="1545000" />
+      <workItem from="1624492718506" duration="2337000" />
+      <workItem from="1624622932163" duration="593000" />
+      <workItem from="1624664208878" duration="5412000" />
+      <workItem from="1624706076470" duration="11851000" />
+      <workItem from="1624718048919" duration="3744000" />
+      <workItem from="1624749891383" duration="2680000" />
+      <workItem from="1624834584063" duration="26702000" />
+      <workItem from="1624921344768" duration="4652000" />
+      <workItem from="1625025765948" duration="16262000" />
+      <workItem from="1625055529085" duration="13565000" />
+      <workItem from="1625091120786" duration="1187000" />
+      <workItem from="1625186369585" duration="4000000" />
+      <workItem from="1625197799909" duration="5033000" />
+      <workItem from="1625208009638" duration="344000" />
+      <workItem from="1625208373251" duration="621000" />
+      <workItem from="1625209015461" duration="2380000" />
+      <workItem from="1625231628290" duration="3994000" />
+      <workItem from="1625354530642" duration="2673000" />
+      <workItem from="1625358451159" duration="3691000" />
+      <workItem from="1625379260020" duration="7962000" />
+      <workItem from="1625399106292" duration="4882000" />
+      <workItem from="1625527636115" duration="2074000" />
+      <workItem from="1625562808003" duration="606000" />
+      <workItem from="1625565406878" duration="11274000" />
+      <workItem from="1625613763582" duration="11565000" />
+      <workItem from="1625635915393" duration="4973000" />
+      <workItem from="1625653858940" duration="4259000" />
+      <workItem from="1625658365238" duration="14000" />
+      <workItem from="1625710018693" duration="647000" />
+      <workItem from="1625724832727" duration="3965000" />
+      <workItem from="1625737454854" duration="6780000" />
+      <workItem from="1625790391108" duration="4942000" />
+      <workItem from="1625812132067" duration="486000" />
+      <workItem from="1628234823460" duration="4651000" />
+      <workItem from="1628256017768" duration="3688000" />
+      <workItem from="1628402646631" duration="2896000" />
+      <workItem from="1628418867430" duration="380000" />
+      <workItem from="1628427115256" duration="1209000" />
+      <workItem from="1628466145316" duration="1890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1624320285457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1624320285457" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1625208701070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1625208701070" />
+    <state x="653" y="176" key="#StdDraw" timestamp="1624716760482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="176" key="#StdDraw/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1624189384841" />
+    <state x="653" y="176" key="#StdDraw/0.0.1920.1040@0.0.1920.1040" timestamp="1624716760482" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1625791197044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625791197044" />
+    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625358487967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625358487967" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1624326281909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1624188892407" />
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624326281909" />
+    <state width="1860" height="178" key="GridCell.Tab.0.bottom" timestamp="1628406062854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="178" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628406062854" />
+    <state width="1877" height="186" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1625655487982" />
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625732068577" />
+    <state width="1860" height="178" key="GridCell.Tab.0.center" timestamp="1628406062854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="178" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628406062854" />
+    <state width="1877" height="186" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1625655487982" />
+    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625732068577" />
+    <state width="1860" height="178" key="GridCell.Tab.0.left" timestamp="1628406062854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="178" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628406062854" />
+    <state width="1877" height="186" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1625655487982" />
+    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625732068577" />
+    <state width="1860" height="178" key="GridCell.Tab.0.right" timestamp="1628406062854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="178" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628406062854" />
+    <state width="1877" height="186" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1625655487982" />
+    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625732068577" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1625208596735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1624232622063" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625208596735" />
+    <state x="443" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625572357877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625572357877" />
+    <state x="-1445" y="0" width="1461" height="1019" key="dock-window-1" timestamp="1628554436854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1445" y="0" width="1461" height="1019" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628554436854" />
+    <state x="-1920" y="0" width="1461" height="1019" key="dock-window-2" timestamp="1628554436854">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" width="1461" height="1019" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628554436854" />
+    <state x="636" y="253" width="786" height="600" key="find.popup" timestamp="1628554356077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="786" height="600" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628554356077" />
+    <state x="636" y="253" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624837961248" />
+    <state x="459" y="136" key="new project wizard" timestamp="1625812618523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="459" y="136" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1625812618523" />
+    <state x="459" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625233954519" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625385610924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625385610924" />
+  </component>
+</project>

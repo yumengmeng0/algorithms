@@ -1,0 +1,4 @@
+C:\gitee\algs4-data
+
+java.lang.NoClassDefFoundError: chapter01/BinarySearch (wrong name: BinarySearch)
+C:\gitee\notes\algorithms\src\chapter01

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/chapter01/BinarySearch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter01/BinarySearch0.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter01/Exercise22.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter01/Exercise28.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter01/Exercise29.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter102/BinarySearch0.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter102/BinarySearch1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter102/Interval2DTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter102/VisualCounter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter103/Evaluate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter103/FixedCapacityStack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter103/Queue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter103/ResizingArrayStack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter103/Stack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/question103/Question15.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
